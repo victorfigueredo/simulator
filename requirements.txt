@@ -3,7 +3,6 @@ requests
 requests_pkcs12
 datetime
 pandas
-statsmodels
 bs4
 unidecode
 tqdm
